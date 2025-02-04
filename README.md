@@ -1,16 +1,17 @@
 ## Hi there 👋
+¡Bienvenido!👋
+Soy Miguel Hernández, Desarollador Web Full Stack, estudié en IES Velázquez.
 
-<!--
-**mherferd/mherferd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+💻HABILIDADES:
+<ul>
+  <li>Java</li>
+  <li>JavaScript</li>
+  <li>Angular</li>
+  <li>HTML y CSS</li>
+  <li>PHP</li>
+  <li>SQL</li>
+  <li>GitHub</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
