@@ -1,4 +1,3 @@
-## Hi there 👋
 ¡Bienvenido!👋
 Soy Miguel Hernández, Desarollador Web Full Stack, estudié en IES Velázquez.
 
